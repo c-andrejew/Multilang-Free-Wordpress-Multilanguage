@@ -2,6 +2,7 @@
 
 <img width="1003" height="161" alt="image" src="https://github.com/user-attachments/assets/46cca580-5d9c-4be1-9f19-2d5dbd8af1f3" />
 
+
 <img width="119" height="100" alt="image" src="https://github.com/user-attachments/assets/50b3cb64-7170-497c-8d07-efef33f6a109" />
 
 # Multilang
@@ -60,7 +61,7 @@ descriptions and ACF fields. End a block with `[:]` when it sits inside other te
    and save. Saving rebuilds the permalink rules automatically.
 4. Place `[multilang_switcher]` in a menu/widget/page where you want the switcher.
 
-== Changelog ==
+## Changelog
 
 = 1.0.0 =
 * Initial release.
