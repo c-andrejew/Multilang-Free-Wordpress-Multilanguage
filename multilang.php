@@ -1,10 +1,9 @@
 <?php
 /**
  * Plugin Name:       Multilang
- * Plugin URI:        https://example.com/multilang
  * Description:       Lightweight, fast multilingual system with per-language URL prefixes (e.g. /de/), a modern language switcher shortcode, and WPBakery + ACF compatible translatable text. Configure each language with an uploadable flag, full name, code and a main-language flag.
  * Version:           1.0.0
- * Author:            Christopher Andrejew
+ * Author:            c-andrejew
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       multilang
