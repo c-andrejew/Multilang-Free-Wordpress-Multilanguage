@@ -1,3 +1,9 @@
+=== Screenhots ===
+
+<img width="1003" height="161" alt="image" src="https://github.com/user-attachments/assets/46cca580-5d9c-4be1-9f19-2d5dbd8af1f3" />
+
+<img width="119" height="100" alt="image" src="https://github.com/user-attachments/assets/50b3cb64-7170-497c-8d07-efef33f6a109" />
+
 === Multilang ===
 Contributors: c-andrejew, Claude Opus 4.8
 Tags: multilingual, language, translation, wpbakery, acf, switcher
@@ -7,6 +13,8 @@ Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+<img width="1003" height="161" alt="image" src="https://github.com/user-attachments/assets/46cca580-5d9c-4be1-9f19-2d5dbd8af1f3" />
 
 Lightweight, fast multilingual system with per-language URL prefixes (/de/, /en/),
 a modern language switcher, and WPBakery + ACF compatible translatable text.
