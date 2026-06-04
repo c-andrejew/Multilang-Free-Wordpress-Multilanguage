@@ -6,14 +6,14 @@
 <img width="119" height="100" alt="image" src="https://github.com/user-attachments/assets/50b3cb64-7170-497c-8d07-efef33f6a109" />
 
 # Multilang
-Contributors: c-andrejew, Claude Opus 4.8
-Tags: multilingual, language, translation, wpbakery, acf, switcher
-Requires at least: 5.6
-Tested up to: 6.5
-Requires PHP: 7.4
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: c-andrejew, Claude Opus 4.8
+* Tags: multilingual, language, translation, wpbakery, acf, switcher
+* Requires at least: 5.6
+* Tested up to: 6.5
+* Requires PHP: 7.4
+* Stable tag: 1.0.0
+* License: GPLv2 or later
+* License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Lightweight, fast multilingual system with per-language URL prefixes (/de/, /en/),
 a modern language switcher, and WPBakery + ACF compatible translatable text.
@@ -42,12 +42,12 @@ holds every language, and the active one is shown based on the URL.
 
 ## Translating content
 
-Switcher:           [multilang_switcher]
-Inline tokens:      [:de]Hallo Welt[:en]Hello world[:]
-Short string:       [ml de="Hallo" en="Hello"]
-WPBakery:           add "Multilang Text", "Multilang Title" or "Multilang ACF"
-ACF:                put [:de]…[:en]…[:] into any text/textarea/wysiwyg field
-Theme code:         echo mlr_t( array( 'de' => 'Hallo', 'en' => 'Hello' ) );
+* Switcher:           [multilang_switcher]
+* Inline tokens:      [:de]Hallo Welt[:en]Hello world[:]
+* Short string:       [ml de="Hallo" en="Hello"]
+* WPBakery:           add "Multilang Text", "Multilang Title" or "Multilang ACF"
+* ACF:                put [:de]…[:en]…[:] into any text/textarea/wysiwyg field
+* Theme code:         echo mlr_t( array( 'de' => 'Hallo', 'en' => 'Hello' ) );
                     echo mlr__( '[:de]Hallo[:en]Hello[:]' );
 
 Inline tokens may be used anywhere: post titles, menu items, widgets, term
