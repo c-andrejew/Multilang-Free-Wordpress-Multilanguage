@@ -14,8 +14,6 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-<img width="1003" height="161" alt="image" src="https://github.com/user-attachments/assets/46cca580-5d9c-4be1-9f19-2d5dbd8af1f3" />
-
 Lightweight, fast multilingual system with per-language URL prefixes (/de/, /en/),
 a modern language switcher, and WPBakery + ACF compatible translatable text.
 
